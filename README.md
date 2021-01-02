@@ -2,4 +2,4 @@
 
 GitHub page for: [notemarks.app](https://notemarks.app)
 
-Code repository: [notemarks](https://github.com/notemarks/NotemarksSource)
+Code repository: [notemarks](https://github.com/notemarks/notemarks)
